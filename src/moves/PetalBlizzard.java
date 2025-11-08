@@ -11,4 +11,3 @@ public final class PetalBlizzard extends PhysicalMove {
         return "испрользует PetalBlizzard";
     }
 }
-///невозможно реализовать, т.к. нет механизма, позволяющего аттаковать несколько целей за раз
